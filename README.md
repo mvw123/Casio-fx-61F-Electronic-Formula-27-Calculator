@@ -8,3 +8,5 @@ Contents:
 - Box image
 
 
+![myText](https://github.com/mvw123/Casio-fx-61F-Electronic-Formula-27-Calculator/blob/master/IMG_3841.JPG)
+
